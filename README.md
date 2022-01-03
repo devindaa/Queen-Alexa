@@ -14,7 +14,7 @@ WhatsApp Bot
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/devindaa/Queen-Alexa```
 <p align="center">
-<a href="https://github.com/HYPER-MOD/followers"><img title="Followers" src="https://github.com/devindaa/Queen-Alexa?color=red&style=flat-square"></a>
+<a href="https://github.com/HYPER-MOD/followers"><img title="Followers" src="https://github.com/HYPER-MOD/Queen-Alexa?color=red&style=flat-square"></a>
 <a href="https://github.com/HYPER-MOD/Queen-Alexa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/HYPER-MOD/bug-bot?color=blue&style=flat-square"></a>
 <a href="https://github.com/HYPER-MOD/Queen-Alexa/network/members"><img title="Forks" src="https://img.shields.io/github/forks/HYPER-MOD/bug-bot?color=red&style=flat-square"></a>
 <a href="https://github.com/HYPER-MOD/Queen-Alexa/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HYPER-MOD/bug-bot?label=Watchers&color=blue&style=flat-square"></a>
